@@ -72,10 +72,10 @@ Skills in:
 - Implementing policies for data access, lifecycle, and protection
 - Rotating encryption keys and renewing certificates
 
-### Domain 2: Design Resilient Architectures
-
 </p>
 </details>
+
+### Domain 2: Design Resilient Architectures
 
 <details><summary>Task Statement 1: Design scalable and loosely coupled architectures</summary>
 <p>
